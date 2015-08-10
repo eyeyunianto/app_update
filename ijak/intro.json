@@ -1,0 +1,12 @@
+{
+  "meta":{
+    "code":"200",
+    "status":true,
+    "version": "20151010"
+  },
+  "data":{
+    "date": "2015-10-10",
+    "download":"http:://git.com",
+    "description":"peringatan HUT 70"
+  }
+}
