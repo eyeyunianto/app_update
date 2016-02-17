@@ -1,0 +1,13 @@
+{
+  "meta":{
+    "code":"200",
+    "status":false,
+    "version": "20151010"
+  },
+  "data":{
+    "date": "2015-10-10",
+    "download":"http://eyeyunianto.github.io/app_update/ijak/20151010.zip",
+    "description":"peringatan HUT 70",
+    "time":"5000"
+  }
+}
