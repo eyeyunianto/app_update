@@ -1,0 +1,4 @@
+{
+  "win" : { "shell" : "1.3" , "build" : "2015-10-14" , "version" : "Beta (2015-10-14)", "link" : "http://eyeyunianto.github.io/update_dev/update/win/2014-11-15.zip", "download" : "https://goo.gl/tVSDzK"},
+  "mac" : { "shell" : "1.3" , "build" : "2015-10-14" , "version" : "Beta (2015-10-14)", "link" : "http://eyeyunianto.github.io/update_dev/update/mac/2014-11-30.zip", "download" : "https://goo.gl/tVSDzK"}
+}
