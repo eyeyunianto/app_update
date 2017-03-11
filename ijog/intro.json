@@ -1,0 +1,14 @@
+{
+  "meta":{
+    "code":"200",
+    "status":false,
+    "version": "20160531"
+  },
+  "data":{
+    "date": "2016-05-31",
+    "download":"http://eyeyunianto.github.io/app_update/ijak/20160531.zip",
+    "image":"http://eyeyunianto.github.io/app_update/ijak/image/20160531/logo.png",
+    "description":"peringatan HUT Jakarta",
+    "time":"5000"
+  }
+}
